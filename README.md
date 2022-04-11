@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, iam Luis Seia 👋😃</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> iam Luis Seia 👋😃</h1>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align= "right" alt="Computador"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Luis-Seia-LS&color=yellow" alt="Visualizações do perfil" /> </p>
 
@@ -8,14 +8,18 @@
 - 👾Basic knowledge of phyton...
 - 🎴learning Graphif design ... UI/UX
 
+<br><br>
+
+<br><br>
+##
 
   <a href="https://github.com/Luis-Seia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luis-Seia&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Seia&layout=compact&langs_count=10&theme=vision-friendly-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Seia&layout=compact&theme=vision-friendly-dark" alt="mais idiomas do Luis-Seia" />
 </div>
 
 <div align="center" valign="top"><br>
-   Tecnologias que uso.
+   Tecnologias que uso frequentemente.
   </div>
 <div align="center" valign="top"><br>
   <img align="center" alt="Luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
