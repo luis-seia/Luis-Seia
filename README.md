@@ -1,7 +1,7 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> iam Luis Seia 😃</h1>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align= "right" alt="Computador"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Luis-Seia-LS&color=yellow" alt="Visualizações do perfil" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Luis-Seia&color=yellow" alt="Prifile viwes" /> </p>
 
 - 🔭 student... Enginnering & Computer science ECC🤖...
 - 📫 focused on the JAVA and JavaScript...
@@ -15,11 +15,11 @@
 
   <a href="https://github.com/Luis-Seia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luis-Seia&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Seia&layout=compact&theme=vision-friendly-dark" alt="mais idiomas do Luis-Seia" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Seia&layout=compact&theme=vision-friendly-dark" alt="Most Used Lnguages Luis-Seia" />
 </div>
 
 <div align="center" valign="top"><br>
-   Tecnologias que uso frequentemente.
+   Technologies i have used.
   </div>
 <div align="center" valign="top"><br>
   <img align="center" alt="Luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
@@ -31,7 +31,7 @@
   <img align="center" alt="Luis-" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg">
 </div>
   <div align="center" valign="top"><br>
-   Minhas redes Socias.
+   My Social Media.
   </div>
 <div align="center">
   <a href="https://instagram.com/luis.seia-" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
