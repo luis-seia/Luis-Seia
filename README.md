@@ -19,9 +19,9 @@
 </div>
 
 <div align="center" valign="top"><br>
-   Using now.
+   <h4>Using now</h4>
   </div>
-<div align="center" valign="top"><br>
+<div align="center" valign="top">
   <img align="center" alt="Luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -30,8 +30,8 @@
   <img align="center" alt="Luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   <img align="center" alt="Luis-" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg">
 </div>
-  <div align="center" valign="top"><br>
-  <p> more about me</p>
+  <div align="center" valign="top">
+  <h4> More about me</h4>
   </div>
 <div align="center">
   <a href="https://instagram.com/luis.seia-" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
