@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">,  iam Luis Seia 👋😃</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, iam Luis Seia 👋😃</h1>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align= "right" alt="Computador"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PedroHenrique-LS&color=yellow" alt="Visualizações do perfil" /> </p>
 
