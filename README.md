@@ -14,7 +14,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Seia&layout=compact&langs_count=10&theme=dark"/>
 </div>
 
-
+<div align="center" valign="top"><br>
+   Tecnologias que uso.
+  </div>
 <div align="center" valign="top"><br>
   <img align="center" alt="Luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,8 +25,10 @@
   <img align="center" alt="Luis--java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   <img align="center" alt="Luis-" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg">
-</div><br>
-  
+</div>
+  <div align="center" valign="top"><br>
+   Minhas redes Socias.
+  </div>
 <div align="center">
   <a href="https://instagram.com/luis.seia-" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/DSvXZbafD2" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
