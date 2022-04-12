@@ -21,7 +21,7 @@ int i, j, aux, n = num.length;
 boolean trocou;
 int h = n/2;  //n representa o tamanho do vetor
 while( h >0 ){ 
-	i = h; // A variavel i compara os numeros segundo a distancia
+	i = h; // A variavel i compara os numeros segundo a distancia calculada
 	while(i<num.length){ // nessa parte procura-se obter um valor superior entre os comparados
 		aux = num[i];//  variavel aux armazena temporaria o primeiro valor a comparar
 		j = i-h;
