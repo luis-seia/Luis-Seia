@@ -48,7 +48,6 @@
   <div align="center">
   
   ![Snake animation](https://github.com/Luis-Seia/Luis-Seia/blob/output/github-contribution-grid-snake.svg)
- 
   </div>
 
 
