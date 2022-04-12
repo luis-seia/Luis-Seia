@@ -1,5 +1,9 @@
+<div id="badges"  align="center">
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> i'm Luis Seia 😃</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=Hi+i'm+Luis+Seia)](https://git.io/typing-svg)
+    
+  </div>
+<h1 align="left">Luis Seia 😃</h1>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align= "right" alt="Computador"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Luis-Seia&color=yellow" alt="Prifile viwes" /> </p>
 
