@@ -24,4 +24,4 @@ if escolha_do_cliente == escolha_do_computador:
 
 # 5. Se os numeros nao forem iguais, o cliente perdeu
 else:
-    print('Não ganhou. Boa sorte para próxima vez')
+    print('---Não ganhou. Boa sorte para próxima vez---')
