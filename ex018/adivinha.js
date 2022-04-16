@@ -18,12 +18,11 @@ function sortear() {
 function jogar() {
     jogador = Number(window.prompt('Tente advinhar um numero escolhido pelo computador'))
     if (sorteio < computador) {
-        res.innerHTML += `<p>Errdado!!!!! Você Escolheu ${sorteio}. O número sorteado é <strong>MAIOR</strong>! que ${sorteio}. 
-        tente novamente</p>`
+        res.innerHTML += `<p>Erradado!!!!! Você Escolheu ${sorteio}. O número sorteado é <strong>MAIOR</strong>! que ${sorteio}.  tente novamente</p>`
     } else if (sorteio > computador) {
         res.innerHTML += `<p>Errdado!!!!! Você Escolheu ${sorteio}. O número sorteado é <strong>MENOR</strong>! que ${sorteio}. tente novamente</p>`
     } else if (sorteio == computador) {
-        res.innerHTML += `<p><strong>PARABÉNS!</strong> *******acertou! o numero sorteado é ${computador}********</p>`
+        res.innerHTML += `<p><strong>PARABÉNS!</strong> *******acertou!********o numero sorteado é ${computador}********</p>`
         document.getElementById('botao').style.visibility = 'hidden'
     }
 }
