@@ -35,6 +35,8 @@
   <img align="center" alt="Luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Luis-" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg">
     <img align="center" alt="Luis-" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+        <img align="center" alt="Luis-" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain colored.svg">
+        <img align="center" alt="Luis-" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 </div>
   <div align="center" valign="top">
   <h4> More about me</h4>
