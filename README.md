@@ -24,7 +24,7 @@
 </div>
 
 <div align="center" valign="top"><br>
-   <h4>Using now</h4>
+   <h4>Learning now</h4>
   </div>
 <div align="center" valign="top">
   <img align="center" alt="Luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
