@@ -54,6 +54,6 @@
 
 <div id="badges"  align="center">
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Luis-Seia&bg_color=4444444&color=00ffff&line=01ffff&point=ffffff&area=true&hide_border=false)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Luis-Seia&bg_color=4444444&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
 
 </div>
