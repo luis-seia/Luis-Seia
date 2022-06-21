@@ -17,7 +17,7 @@
 ##
   <a href="https://github.com/Luis-Seia">
   <img height="177em" src="https://github-readme-stats.vercel.app/api?username=Luis-Seia&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Sei&layout=compact&theme=vision-friendly-dark" alt="Most Used Lnguages Luis-Seia" />
+  <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Seia&layout=compact&theme=vision-friendly-dark" alt="Most Used Lnguages Luis-Seia" />
 </div>
 
 <div align="center" valign="top"><br>
