@@ -1,7 +1,7 @@
 <div id="badges"  align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=Hi!+welcome+to+my+profile)](https://git.io/typing-svg)
-    
+  
   </div>
 <h1 align="left">Luis-Seia 😃</h1>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align= "right" alt="Computador"/>
@@ -17,7 +17,7 @@
 ##
   <a href="https://github.com/Luis-Seia">
   <img height="177em" src="https://github-readme-stats.vercel.app/api?username=Luis-Seia&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Seia&layout=compact&theme=vision-friendly-dark" alt="Most Used Lnguages Luis-Seia" />
+  <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Seia&layout=compact&theme=vision-friendly-dark" alt="Most Used Languages Luis-Seia"/>
 </div>
 
 <div align="center" valign="top"><br>
