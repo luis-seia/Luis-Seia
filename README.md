@@ -8,8 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Luis-Seia&color=yellow" alt="Prifile viwes" /> </p>
 
 - 🔭 student... Enginnering & Computer science ECC🤖..
-- 📫 learning and improving: JAVA(Spring boot, JPA/hibernate)  JavaScript(Node+Express,React+Redux,)...
-- 👾Basic knowledge of phyton...
+
 
 <br><br>
 
