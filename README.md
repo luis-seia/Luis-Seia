@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align= "right" alt="Computador"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Luis-Seia&color=yellow" alt="Prifile viwes" /> </p>
 
-- 🔭 student... Enginnering & Computer science ECC🤖..
+- 🔭 Software Developer🤖..
 
 
 
