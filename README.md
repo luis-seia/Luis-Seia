@@ -36,6 +36,7 @@
   <img align="center" alt="Luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Luis-" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-line.svg">
   <img align="center" alt="Luis-" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+  <img align="center" alt="Luis-" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 
 </div>
   <div align="center" valign="top">
