@@ -20,7 +20,7 @@
 ##
   <a href="https://github.com/Luis-Seia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luis-Seia&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stat.vercel.app/api/top-langs/?username=Luis-Seia&layout=compact&theme=vision-friendly-dark" alt="Most Used Languages "/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Seia&layout=compact&theme=vision-friendly-dark" alt="Most Used Languages "/>
 </div>
 
 <div align="center" valign="top"><br>
