@@ -50,13 +50,4 @@
   <a href="https://www.linkedin.com/in/luis-seia-05a573237" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </a>
   </div>
-  
-  <div align="center">
-  
-  ![Snake animation](https://github.com/Luis-Seia/Luis-Seia/blob/output/github-contribution-grid-snake.svg)
-  </div>
-
-<div id="badges"  align="center">
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Luis-Seia&bg_color=4444444&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
-</div>
+ 
